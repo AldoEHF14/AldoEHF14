@@ -18,16 +18,22 @@ Here are some ideas to get you started:
 <section align="center" style="display: flex; align-items: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Abel&weight=900&size=30&duration=2000&pause=1000&color=C2C2C2&center=true&multiline=true&repeat=false&width=435&height=75&lines=Hello+World%2C+I'm+Aldo;Welcome+to+my+profile" alt="Typing SVG" />
-</a>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></section>
+  
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+</div>
 
-<h3 align="center">A computer engineering student</h3>
+</section>
+
+
 
 ---
 
-🎓 I’m currently studying at UAM Cuajimalpa in Mexico City  
-💻 I’m working on my [thesis project](#)  
-📚 Currently learning **SQL Server** and **AI**  
+🎓 I’m currently studying at UAM Cuajimalpa in Mexico City.<br>
+💻 I’m working on my servicio social.  
+📚 Currently learning **JavaScript** and **AI**  
 📬 Reach me at:  
 🔗 Know more on my [LinkedIn]()
 
