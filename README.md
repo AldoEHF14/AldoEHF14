@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **AldoEHF14/AldoEHF14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<section align="center" style="display: flex; align-items: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Abel&weight=900&size=30&duration=2000&pause=1000&color=C2C2C2&center=true&multiline=true&repeat=false&width=435&height=75&lines=Hello+World%2C+I'm+Aldo;Welcome+to+my+profile" alt="Typing SVG" />
+</a>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></section>
 
-<h1 align="center">Hi 👋, I'm Aldo</h1>
 <h3 align="center">A computer engineering student</h3>
 
 ---
