@@ -25,7 +25,7 @@
 ---
 
 
-### 📊 Lenguajes más usados
+### 📊 Lenguajes de programcion más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldoEHF14&layout=compact&theme=transparent)
 
