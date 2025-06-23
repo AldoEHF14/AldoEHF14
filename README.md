@@ -30,7 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldoEHF14&layout=compact&theme=tokyonight)
 
 
-
 ### ⚡ Tech Stack:
 
 #### Programming
@@ -38,7 +37,7 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
 
-#### Web
+### Web
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
