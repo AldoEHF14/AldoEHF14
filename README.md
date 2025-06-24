@@ -12,18 +12,15 @@
 
 </section>
 
-
-
 ---
 
-🎓 I’m currently studying at UAM Cuajimalpa in Mexico City.<br>
+🎓 I’m currently studying at UAM Cuajimalpa.<br>
 💻 I’m working on my Servicio Social.  
 📚 Currently learning **JavaScript** and **AI**  
 📬 Reach me at:  
 🔗 Know more on my [LinkedIn]()
 
 ---
-
 
 ### 📊 Lenguajes
 
