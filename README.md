@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 Most used programming languages: 
+### 📊 Most used languages: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldoEHF14&layout=compact&theme=tokyonight)
 
