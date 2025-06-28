@@ -15,7 +15,7 @@
 ---
 
 🎓 I’m currently studying at UAM Cuajimalpa.<br>
-💻 I’m working on my Servicio Social.  
+💻 I’m working on my Servicio Social .  
 📚 Currently learning **JavaScript** and **AI**  
 📬 Reach me at:  
 🔗 Know more on my [LinkedIn]()
@@ -38,7 +38,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-
 
 
 ---
