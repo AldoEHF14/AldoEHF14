@@ -45,7 +45,7 @@
 
 ### 🌐 Where to find me:
 [![LinkedIn]()
-[![Email](aldohernadez764@gmail.com) o [![Email](aldo.hernandez@cua.uam.mx)
+[![Email](aldo.hernandez@cua.uam.mx)
 [![Instagram]()](#)
 [![DEV])](#)
 [![Medium]()](#)
