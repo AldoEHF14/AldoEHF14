@@ -39,8 +39,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 
----
 
+---
 
 ### 🌐 Where to find me:
 [![LinkedIn]()
