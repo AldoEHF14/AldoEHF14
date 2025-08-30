@@ -42,7 +42,7 @@
 
 ### 🌐 Where to find me:
 [![LinkedIn]()
-[![Email]()
+[![Email](aldo.hernandez@cua.uam.mx)
 [![Instagram]()](#)
 [![DEV])](#)
 [![Medium]()](#)
