@@ -41,7 +41,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 
 ---
-
 ### 🌐 Where to find me:
 [![LinkedIn]()
 [![Email]()
