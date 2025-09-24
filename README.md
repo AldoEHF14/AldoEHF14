@@ -16,7 +16,7 @@
 
 🎓 I’m currently studying at UAM Cuajimalpa.<br>
 💻 I’m working on my Servicio Social .  
-📚 Currently learning **Power BI**,**Scikilearn** and **AI**  
+📚 Currently learning **Scikilearn** and **AI**  
 📬 Reach me at:  
 🔗 Know more on my [LinkedIn]()
 
