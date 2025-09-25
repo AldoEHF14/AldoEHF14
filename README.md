@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Aldo <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 <section align="center" style="display: flex; align-items: center;">
+	
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Abel&weight=900&size=30&duration=2000&pause=1000&color=C2C2C2&center=true&multiline=true&repeat=false&width=435&height=75&lines=Welcome+to+my+profile" alt="Typing SVG" />
   
