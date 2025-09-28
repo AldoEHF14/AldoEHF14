@@ -12,7 +12,6 @@
 </div>
 
 </section>
-
 ---
 
 🎓 I’m currently studying at UAM Cuajimalpa.<br>
