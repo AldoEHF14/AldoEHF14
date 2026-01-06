@@ -16,9 +16,17 @@
 
 ### 👨‍🎓 Sobre mí
 
-🎓 Actualmente estudio en la **UAM Cuajimalpa**  
-💻 Me encuentro realizando mi **Servicio Social** en la **UAM Cuajimalpa** 
-🤖 Aprendiendo **Scikit-learn**,**Inteligencia Artificia**,**JavaScript**,**PHP** y **Power BI**  
+🎓 Estudio **Ingeniería en Computación** en la **Universidad Autónoma Metropolitana (UAM Cuajimalpa)**.  
+📍 Vivo en **Ciudad de México, México**.  
+🚀 Me apasiona aprender **nuevas tecnologías** y trabajar en **proyectos personales**.  
+🛠️ He utilizado **VS Code, PyCharm e IntelliJ IDEA** como IDEs de desarrollo. <br>
+💻 Me encuentro realizando mi **Servicio Social**. <br>
+📊 Actualmente interesado en **Ciencia de datos, Power BI y Machine Learning**.  
+🤖 Estoy aprendiendo **Scikit-learn, IA y análisis de datos**.  
+💻 Tengo experiencia con **C, C++, Python, Java y PHP**.  
+🗄️ He trabajado con **MySQL y phpMyAdmin**.  
+🌱 Me gusta seguir aprendiendo y mejorar constantemente.  
+🤝 Me interesa la colaboración y el intercambio de conocimientos.  
 📬 Contáctame en:  
 🔗 Conoce más en mi **[LinkedIn](www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361)**
 
@@ -52,10 +60,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
 
 
 ### 📈 Ciencia de datos, Machine Learning y Power BI
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
