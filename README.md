@@ -27,11 +27,9 @@
 🌱 Me gusta seguir aprendiendo y mejorar constantemente.  
 🤝 Me interesa la colaboración y el intercambio de conocimientos.  
 📬 Contáctame en:  
-🔗 Conoce más en mi **[LinkedIn](www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361)**
 <a href="https://www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361" target="_blank">
-🔗 Conoce más en mi LinkedIn
+🔗 En mi LinkedIn
 </a>
-
 
 ---
 
