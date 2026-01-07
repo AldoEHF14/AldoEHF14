@@ -23,8 +23,7 @@
 💻 Me encuentro realizando mi **Servicio Social**. <br>
 📊 Actualmente interesado en **Ciencia de datos, Power BI y Machine Learning**.  
 🤖 Estoy aprendiendo **Scikit-learn, IA y análisis de datos**.  
-💻 Tengo experiencia con **C, C++, Python, Java y PHP**.  
-🗄️ He trabajado con **MySQL y phpMyAdmin**.  
+💻 He trabajado con **C, C++, Python, Java y MySQL**.  
 🌱 Me gusta seguir aprendiendo y mejorar constantemente.  
 🤝 Me interesa la colaboración y el intercambio de conocimientos.  
 📬 Contáctame en:  
