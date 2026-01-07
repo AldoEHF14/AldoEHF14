@@ -28,13 +28,20 @@
 🤝 Me interesa la colaboración y el intercambio de conocimientos.  
 📬 Contáctame en:  
 🔗 Conoce más en mi **[LinkedIn](www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361)**
+<a href="https://www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361" target="_blank">
+🔗 Conoce más en mi LinkedIn
+</a>
+
 
 ---
 
 ### 📊 Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldoEHF14&layout=compact&theme=tokyonight&cache_seconds=2000)
-
+<p align="left">
+<a href="https://github.com/AldoEHF14">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AldoEHF14&layout=compact&langs_count=8&theme=dark"/>
+</a>
+	
 ---
 
 ## ⚡ Pila tecnológica
@@ -76,8 +83,18 @@
 
 ### 🌎 Dónde encontrarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361)
-[![Email](https://img.shields.io/badge/Correo-EA4335?logo=gmail&logoColor=white)](mailto:aldo.hernandez@cua.uam.mx)
+<p align="left">
+
+ <a href="https://www.linkedin.com/in/aldo-enrique-hernandez-flores-403b48361">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+ </a>
+
+ <a href="mailto:aldo.hernandez@cua.uam.mx">
+ <img src="https://img.shields.io/badge/Correo-EA4335?logo=gmail&logoColor=white">
+ </a>
+ 
+</p>
+
 
 ---
 
